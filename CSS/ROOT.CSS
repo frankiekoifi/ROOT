@@ -1,0 +1,26 @@
+:root{
+    /*colors*/
+    --white-color: #fff;
+    --dark-color: #252525;
+    --primary-color: #3b141c;
+    --secondary-color: #f3961c;
+    --lightpink-color: #faf4f5;
+    --mediumgrey-color: #ccc; 
+ 
+    /*font size*/
+    --font-size-s: 0.9rem;
+    --font-size-n: 1rem;
+    --font-size-m: 1.12rem;
+    --font-size-i: 1.5rem;
+    --font-size-xi: 2rem;
+    --font-size-xxi: 2.3rem
+ 
+    /*font weight*/
+    --font-weight-normal: 400;
+    --font-weight-medium: 500;
+    --font-weight-semibold: 600;
+    --font-weight-bold: 700;
+ 
+    /*site mx width*/
+    --site-max-width: 1300px;
+ }
